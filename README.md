@@ -15,9 +15,9 @@ To get started with the Code-with-Google-Maps-2023 repository, follow these step
 
 ### README.md must consist of the following information:
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - DreamCatchers
+#### Problem Statement - Explore Tourist place in a better way
+#### Team Leader Email - maharshi.choudhury@gmail.com
 
 ### A Brief of the Prototype:
   This section must include UML Diagrams and prototype description
